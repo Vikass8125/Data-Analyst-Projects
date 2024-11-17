@@ -12,9 +12,10 @@ Data Visualization, Data Analysis
 
 ## Data Set Link:
 [Download Bike Buyers Dataset](Bike_Buyers_Dataset.xlsx)
+![report_excel.png](report_excel.png)
 
 ## Project File Link:
-[Download Report](report.pdf)
+[Download Bike Buyers Project](Bike_Buyers_Dataset.xlsx)
 
 ---
 
@@ -48,14 +49,4 @@ To analyze the factors influencing bike purchase decisions and create visualizat
 - **Age Bracket**:
   - Middle-aged individuals showed the highest bike purchase rate.
 
----
-
-## Suggested Images
-- **Dashboard Overview**: Screenshot of the main dashboard from your PDF or Excel.
-- **Gender vs. Purchase Decision**: Bar chart showcasing gender-wise bike purchase stats.
-- **Commute Distance Analysis**: Screenshot of the commute distance visualization.
-- **Age Bracket Trends**: Graph representing purchase distribution across age brackets.
-
----
-
-Feel free to use the provided screenshots or modify based on your preference.
+![report_pdf.png](report_pdf.png)
