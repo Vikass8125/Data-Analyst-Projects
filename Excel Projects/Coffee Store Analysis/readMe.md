@@ -13,6 +13,7 @@ Analysis of coffee shop sales data to understand patterns in sales, customer beh
 
 ## Data Set Link:
 [Coffee_Store_Analysis.xlsx](Coffee_Store_Analysis.xlsx)
+![Coffee_Strore_Analysis_Data_Set.png](Coffee_Strore_Analysis_Data_Set.png)
 
 ## Project File Link:
 [Coffee_Store_Analysis.xlsx](Coffee_Store_Analysis.xlsx)
@@ -49,6 +50,6 @@ To analyze sales data to derive actionable insights for improving operations and
     - Most orders occur mid-week (Tuesday and Wednesday).  
     - Lower sales on weekends, especially Saturday.
 
-[Coffee_Store_Analysis](Coffee_Store_Analysis.pdf)
+![Coffee_Strore_Analysis_Dashboard.png](Coffee_Strore_Analysis_Dashboard.png)
 
 
