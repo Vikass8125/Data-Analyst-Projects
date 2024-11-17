@@ -11,6 +11,7 @@ Data Cleaning, Data Analysis, Data Visualization
 
 ## Data Set Link:
 *Unavailable*
+![Data Set Overview](Data_Set_Image.png)
 
 ## Project File Link:
 [Road Accident Data Analysis](Road_Accident_Data_Analysis.xlsx)
