@@ -10,10 +10,11 @@ Python (pandas, matplotlib, seaborn)
 Data Cleaning, Data Analysis, Data Visualization
 
 ## Data Set Link:
-*Unavailable*
+![Diwali_Sales_Data_Set](./Diwali_Sales_Data_Set.png)
+- [Diwali_Sales_Data-excel](./Diwali_Sales_Data-excel.csv)
 
 ## Project File Link:
-*Not Provided*
+- [Diwali_Sales_Analysis](./Diwali_Sales_Analysis.ipynb)
 
 ---
 
@@ -40,24 +41,17 @@ Data Cleaning, Data Analysis, Data Visualization
 ## Key Visualizations
 
 ### Gender Distribution  
-**Placeholder:** Add a bar chart showing the distribution of buyers by gender and their purchasing amounts.
 
 ### Age Group Analysis  
-**Placeholder:** Add a bar chart showing total purchases and revenue by age group.
 
 ### Top States by Orders and Revenue  
-**Placeholder:** Add two bar charts: one showing the number of orders by state and another showing revenue by state.
 
 ### Marital Status and Gender Contribution  
-**Placeholder:** Add a grouped bar chart comparing marital status and gender against total revenue.
 
 ### Occupation Insights  
-**Placeholder:** Add a bar chart showing the total revenue contribution by different occupations.
 
 ### Product Categories and Top Products  
-**Placeholder:** Add two visuals: one showing the top product categories by revenue and another showing the top 10 most sold products.
 
----
 
 ## Conclusion:
 Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are more likely to purchase products in Food, Clothing, and Electronics categories during Diwali.
