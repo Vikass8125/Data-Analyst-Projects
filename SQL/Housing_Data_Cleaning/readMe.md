@@ -11,7 +11,7 @@ A data cleaning project focusing on housing datasets to ensure consistency, comp
 Data Cleaning, Data Transformation
 
 ## Data Set Link:
-Not Provided
+![Housing_Data_Set](Housing_Data_Set.png)
 
 ## Project File Link:
 [Download Project SQL File](Data_Cleaning_Portfolio_Project_Housing.sql)
@@ -47,14 +47,4 @@ To clean and transform a housing dataset for downstream analysis and reporting.
 - Cleaning categorical fields ensures consistency in reporting.
 - Schema optimization reduces storage and enhances query performance.
 
----
-
-## Suggested Images
-- **Process Overview**: A screenshot of SQL queries being executed in your SQL client.
-- **Address Splitting Example**: A screenshot showing the split fields (`PropertySplitAddress`, `PropertySplitCity`, etc.).
-- **Duplicate Removal Query Output**: An example table showcasing how duplicates were identified.
-- **Schema Changes**: Screenshots of the table schema before and after cleaning.
-
----
-
-Feel free to integrate these elements into your GitHub repository. Let me know if further refinements are needed!
+![Housing_SQL](Housing_SQL.png)
