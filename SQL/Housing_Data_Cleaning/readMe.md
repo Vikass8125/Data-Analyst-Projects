@@ -14,7 +14,7 @@ Data Cleaning, Data Transformation
 ![Housing_Data_Set](Housing_Data_Set.png)
 
 ## Project File Link:
-[Download Project SQL File](Data_Cleaning_Portfolio_Project_Housing.sql)
+![Data Cleaning Portfolio Project Housing](Data Cleaning Portfolio Project Housing.sql)
 
 ---
 
