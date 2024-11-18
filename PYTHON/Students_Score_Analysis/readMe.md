@@ -10,6 +10,7 @@ This project analyzes student performance based on demographic, educational, and
 Data Cleaning, Data Visualization, Data Analysis
 
 ## Data Set Link:
+![students_score_Data_Set](./students_score_Data_Set.png)
 [students_score-Excel.csv](./students_score-Excel.csv)
 
 ## Project File Link:
