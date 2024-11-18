@@ -38,21 +38,6 @@ Data Cleaning, Data Analysis, Data Visualization
 
 ---
 
-## Key Visualizations
-
-### Gender Distribution  
-
-### Age Group Analysis  
-
-### Top States by Orders and Revenue  
-
-### Marital Status and Gender Contribution  
-
-### Occupation Insights  
-
-### Product Categories and Top Products  
-
-
 ## Conclusion:
 Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are more likely to purchase products in Food, Clothing, and Electronics categories during Diwali.
 
