@@ -1,7 +1,7 @@
 # Revenue Insights in Hospitality Domain
 
 ## Description:
-This project analyzes the revenue trends in the hospitality industry using data from the **fact_bookings.csv** dataset. Key metrics such as revenue, booking trends, and performance by region are visualized and explored.
+This project analyzes the revenue trends in the hospitality industry using data from the **fact_bookings.csv** dataset and other supporting sheets. Key metrics such as revenue, booking trends, and performance by region are visualized and explored.
 
 ## Tool:
 Power BI
@@ -10,7 +10,12 @@ Power BI
 Data Cleaning, Data Analysis, Data Visualization
 
 ## Data Set Link:
+![Revenue_Insights_Data_Set](Revenue_Insights_Data_Set.png)
 [fact_bookings.csv](fact_bookings.csv)
+[dim_date.csv](dim_date.csv)
+[dim_hotels.csv](dim_hotels.csv)
+[dim_rooms.csv](dim_rooms.csv)
+[fact_aggregated_bookings.csv](fact_aggregated_bookings.csv)
 
 ## Project File Link:
 [Revenue Insights in Hospitality Domain](Revenue_Insights_in_Hospitality_Domain-powerbi.pbix)
@@ -36,8 +41,8 @@ Data Cleaning, Data Analysis, Data Visualization
 ---
 
 ## Key Visualizations
-
 ### Total Revenue Trends  
 ### Revenue by Region  
 ### Booking Trends and Channels  
-### Cancellation Impact on Revenue  
+### Cancellation Impact on Revenue 
+![Revenue_Insights_Dashboard](Revenue_Insights_Dashboard.png)
