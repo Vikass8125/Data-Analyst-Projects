@@ -10,12 +10,23 @@ This project analyzes pizza sales data, including orders, revenue, and customer 
 Data Analysis, Data Modeling
 
 ## Data Set Link:
-![]()
-[]()
+![one](./one.png)
+
+![two](./two.png)
+
+![three](./three.png)
+
+![four](./four.png)
+
+[order_details](order_details.csv)
+[orders](orders.csv)
+[pizza_types](pizza_types.csv)
+[pizzas](pizzas.csv)
 
 ## Project File Link:
-![]()
+![sql_output](./sql_output.png)
 [Pizza_sales_solution.sql](./Pizza_sales_solution.sql)
+
 
 ---
 
@@ -23,6 +34,8 @@ Data Analysis, Data Modeling
 
 ### Goal:
 To provide insights into pizza sales, customer behavior, and revenue patterns for better decision-making.
+
+[Questions](./Questions.txt)
 
 ### Process:
 1. **Database Setup**:
