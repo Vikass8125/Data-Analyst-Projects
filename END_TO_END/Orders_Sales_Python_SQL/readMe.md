@@ -11,10 +11,14 @@ This project provides insights into retail order data by analyzing key metrics s
 Data Analysis, Data Cleaning, Data Modeling, Data Transformation
 
 ## Data Set Link
+![orders_Data_Set](./orders_Data_Set.png)
+
 [Download orders.csv](./orders.csv)
 
 ## Project File Link
-[Order Data Analysis Report PDF](./Order_Data_Analysis-final.pdf)
+![orders_sql_op](./orders_sql_op.png)
+
+[Order Data Analysis](./Order_Data_Analysis.ipynb)
 
 ---
 
