@@ -10,9 +10,11 @@ SQL
 Data Cleaning, Data Analysis, Data Transformation, Data Visualization
 
 ## Data Set Link:
+![Data_Set](./Data_Set.png)
 [layoffs.csv](layoffs.csv)
 
 ## Project File Link:
+![SQL_OUTPUT](./SQL_OUTPUT.png)
 [Layoffs_SQL.sql](Layoffs_SQL.sql)
 
 ---
@@ -33,12 +35,3 @@ Data Cleaning, Data Analysis, Data Transformation, Data Visualization
   - **Company Insights:** A few large organizations dominate layoff numbers, highlighting concentration in layoffs.  
   - **Global Trends:** Layoffs are concentrated in certain regions, reflecting economic and industry-specific challenges.  
 
----
-
-## Key Visualizations
-### Yearly Layoff Trends  
-### Layoffs by Industry  
-### Top Companies with Layoffs  
-### Geographic Distribution of Layoffs  
-
-![]()
