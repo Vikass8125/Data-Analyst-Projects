@@ -10,6 +10,8 @@ This project involves analyzing HR data using Power BI to uncover key insights r
 Data Visualization, Business Intelligence, Data Analysis
 
 ## Data Set Link:
+![HR_Data_Set](hr_data_Data_Set.png)
+
 [HR Data.xlsx](./HR%20Data.xlsx)
 
 ## Project File Link:
@@ -45,6 +47,7 @@ To provide actionable insights into employee data, focusing on key metrics such 
   - Majority of employees fall within the 25-35 age range.
   - Gender representation varied across departments.
 
+![hr_dashboard](hr_dashboard.png)
 - **Performance Trends**:
   - Employees with higher satisfaction scores tend to perform better and have lower attrition rates.
 
